@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scarletmgc
 - 👀 I’m interested in UI/UX Design
-- 🌱 I’m currently learning Java Script, HTML y CSS
+- 🌱 I’m currently learning Javascript, HTML y CSS
 - 💞️ I’m looking to collaborate on UI UX and Front End 
 - 📫 How to reach me www.linkedin.com/in/scarlet-gutierrez-collado
 
